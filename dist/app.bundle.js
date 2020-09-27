@@ -90,10 +90,11 @@
 /*!***********************************!*\
   !*** ./assets/img/food-table.jpg ***!
   \***********************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-loader/index.js):\\nError: Cannot find module 'imagemin-gifsicle'\\nRequire stack:\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\image-webpack-loader\\\\index.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\loader-runner\\\\lib\\\\loadLoader.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\loader-runner\\\\lib\\\\LoaderRunner.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack\\\\lib\\\\NormalModule.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack\\\\lib\\\\NormalModuleFactory.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack\\\\lib\\\\Compiler.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack\\\\lib\\\\webpack.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack-cli\\\\bin\\\\utils\\\\validate-options.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack-cli\\\\bin\\\\utils\\\\convert-argv.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack-cli\\\\bin\\\\cli.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack\\\\bin\\\\webpack.js\\n    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:966:15)\\n    at Function.Module._load (internal/modules/cjs/loader.js:842:27)\\n    at Module.require (internal/modules/cjs/loader.js:1026:19)\\n    at require (C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\v8-compile-cache\\\\v8-compile-cache.js:161:20)\\n    at Object.module.exports (C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\image-webpack-loader\\\\index.js:72:20)\");\n\n//# sourceURL=webpack:///./assets/img/food-table.jpg?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"assets/img/food-table.jpg\");\n\n//# sourceURL=webpack:///./assets/img/food-table.jpg?");
 
 /***/ }),
 
@@ -101,10 +102,11 @@ eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-l
 /*!******************************!*\
   !*** ./assets/img/grill.jpg ***!
   \******************************/
-/*! no static exports found */
-/***/ (function(module, exports) {
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
 
-eval("throw new Error(\"Module build failed (from ./node_modules/image-webpack-loader/index.js):\\nError: Cannot find module 'imagemin-gifsicle'\\nRequire stack:\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\image-webpack-loader\\\\index.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\loader-runner\\\\lib\\\\loadLoader.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\loader-runner\\\\lib\\\\LoaderRunner.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack\\\\lib\\\\NormalModule.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack\\\\lib\\\\NormalModuleFactory.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack\\\\lib\\\\Compiler.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack\\\\lib\\\\webpack.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack-cli\\\\bin\\\\utils\\\\validate-options.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack-cli\\\\bin\\\\utils\\\\convert-argv.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack-cli\\\\bin\\\\cli.js\\n- C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\webpack\\\\bin\\\\webpack.js\\n    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:966:15)\\n    at Function.Module._load (internal/modules/cjs/loader.js:842:27)\\n    at Module.require (internal/modules/cjs/loader.js:1026:19)\\n    at require (C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\v8-compile-cache\\\\v8-compile-cache.js:161:20)\\n    at Object.module.exports (C:\\\\Users\\\\Brandon McGuire\\\\Desktop\\\\projects\\\\food-festival\\\\node_modules\\\\image-webpack-loader\\\\index.js:72:20)\");\n\n//# sourceURL=webpack:///./assets/img/grill.jpg?");
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (\"assets/img/grill.jpg\");\n\n//# sourceURL=webpack:///./assets/img/grill.jpg?");
 
 /***/ }),
 
